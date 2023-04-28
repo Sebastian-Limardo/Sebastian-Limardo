@@ -27,7 +27,7 @@
 <br>
 <h2 align="center">           📝 ~ Contacto ~ 📝</h2>
 <br>
-<p align="center"><a href="https://www.linkedin.com/in/sebastián-limardo-8abb95236/" target="_blank"><img src="https://t1.uc.ltmcdn.com/es/posts/8/9/5/como_eliminar_mi_cuenta_de_linkedin_4598_600.jpg"/></a> </p>
+<p align="center"><a href="https://www.linkedin.com/in/sebastián-limardo-8abb95236/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"/></a> </p>
 </div>
 <br>
 <div>
